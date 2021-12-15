@@ -1,3 +1,3 @@
-# Sports-Page
+# Sports Page
 
 - Made by Priyankan Das
